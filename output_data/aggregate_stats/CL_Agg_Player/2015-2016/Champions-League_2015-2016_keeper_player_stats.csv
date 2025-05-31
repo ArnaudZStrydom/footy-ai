@@ -1,0 +1,44 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,Playing_Time_MP,Playing_Time_Starts,Playing_Time_Min,Playing_Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty_Kicks_PKatt,Penalty_Kicks_PKA,Penalty_Kicks_PKsv,Penalty_Kicks_PKm,Penalty_Kicks_Save%,Matches
+1,Igor Akinfeev,ru RUS,GK,ru CSKA Moscow,29,1986,6,6,540,6.0,9,1.50,39,30,76.9,1,1,4,0,0.0,,,,,,Matches
+2,Asmir Begović,ba BIH,GK,eng Chelsea,28,1987,5,5,450,5.0,3,0.60,16,13,81.3,3,1,1,3,60.0,,,,,,Matches
+3,Diego Benaglio,ch SUI,GK,de Wolfsburg,31,1983,8,8,720,8.0,9,1.13,43,34,79.1,5,0,3,4,50.0,,,,,,Matches
+4,Gianluigi Buffon,it ITA,GK,it Juventus,37,1978,8,8,750,8.3,9,1.08,36,27,75.0,3,3,2,3,37.5,,,,,,Matches
+5,Willy Caballero,ar ARG,GK,eng Manchester City,33,1981,1,0,9,0.1,0,0.00,0,0,,0,0,0,0,,,,,,,Matches
+6,Eduardo Carvalho,pt POR,GK,hr Dinamo Zagreb,32,1982,6,6,540,6.0,14,2.33,44,30,68.2,1,0,5,0,0.0,,,,,,Matches
+7,Kiko Casilla,es ESP,GK,es Real Madrid,28,1986,2,2,180,2.0,3,1.50,17,14,82.4,2,0,0,1,50.0,,,,,,Matches
+8,Iker Casillas,es ESP,GK,pt Porto,34,1981,6,6,540,6.0,8,1.33,34,26,76.5,3,1,2,1,16.7,,,,,,Matches
+9,Koen Casteels,be BEL,GK,de Wolfsburg,23,1992,2,2,180,2.0,2,1.00,10,8,80.0,2,0,0,1,50.0,,,,,,Matches
+10,Petr Čech,cz CZE,GK,eng Arsenal,33,1982,5,5,450,5.0,7,1.40,32,25,78.1,3,0,2,3,60.0,,,,,,Matches
+11,Júlio César,br BRA,GK,pt Benfica,35,1979,7,7,630,7.0,8,1.14,30,22,73.3,4,1,2,2,28.6,,,,,,Matches
+12,Sergei Chernik,by BLR,GK,by BATE Borisov,27,1988,6,6,540,6.0,12,2.00,45,33,73.3,1,2,3,1,16.7,,,,,,Matches
+13,Thibaut Courtois,be BEL,GK,eng Chelsea,23,1992,3,3,270,3.0,4,1.33,17,13,76.5,1,0,2,1,33.3,,,,,,Matches
+14,Morgan De Sanctis,it ITA,GK,it Roma,38,1977,1,0,40,0.4,2,4.50,4,2,50.0,0,0,0,0,,,,,,,Matches
+15,Jaume Doménech,es ESP,GK,es Valencia,24,1990,6,6,540,6.0,9,1.50,33,24,72.7,2,0,4,1,16.7,,,,,,Matches
+16,Ederson,br BRA,GK,pt Benfica,21,1993,3,3,270,3.0,4,1.33,20,16,80.0,1,1,1,0,0.0,,,,,,Matches
+17,Nenad Erić,kz KAZ,GK,kz FC Astana,33,1982,6,6,540,6.0,11,1.83,47,36,76.6,0,4,2,1,16.7,,,,,,Matches
+18,David de Gea,es ESP,GK,eng Manchester Utd,24,1990,6,6,540,6.0,7,1.17,28,21,75.0,2,2,2,2,33.3,,,,,,Matches
+19,Joe Hart,eng ENG,GK,eng Manchester City,28,1987,12,12,1071,11.9,12,1.01,60,48,80.0,6,3,3,3,25.0,,,,,,Matches
+20,Anton Kanibolotskiy,ua UKR,GK,ua Shakhtar,27,1988,2,2,180,2.0,2,1.00,10,8,80.0,1,0,1,1,50.0,,,,,,Matches
+21,Mikhail Kerzhakov,ru RUS,GK,ru Zenit,28,1987,2,2,180,2.0,2,1.00,4,2,50.0,2,0,0,0,0.0,,,,,,Matches
+22,Bernd Leno,de GER,GK,de Leverkusen,23,1992,6,6,540,6.0,12,2.00,40,28,70.0,1,3,2,0,0.0,,,,,,Matches
+23,Yuri Lodygin,ru RUS,GK,ru Zenit,25,1990,6,6,540,6.0,7,1.17,36,29,80.6,3,0,3,2,33.3,,,,,,Matches
+24,Anthony Lopes,pt POR,GK,fr Lyon,24,1990,6,6,540,6.0,9,1.50,37,28,75.7,1,1,4,1,16.7,,,,,,Matches
+25,Fernando Muslera,uy URU,GK,tr Galatasaray,29,1986,6,6,540,6.0,10,1.67,48,38,79.2,1,2,3,0,0.0,,,,,,Matches
+26,Keylor Navas,cr CRC,GK,es Real Madrid,28,1986,11,11,1020,11.3,3,0.26,33,30,90.9,7,3,1,9,81.8,,,,,,Matches
+27,Manuel Neuer,de GER,GK,de Bayern Munich,29,1986,11,11,1020,11.3,11,0.97,61,50,82.0,7,2,2,4,36.4,,,,,,Matches
+28,Jan Oblak,si SVN,GK,es Atlético Madrid,22,1993,13,13,1230,13.7,8,0.59,61,53,86.9,6,4,3,8,61.5,,,,,,Matches
+29,David Ospina,co COL,GK,eng Arsenal,26,1988,3,3,270,3.0,8,2.67,17,9,52.9,0,0,3,0,0.0,,,,,,Matches
+30,Andriy Pyatov,ua UKR,GK,ua Shakhtar,31,1984,4,4,360,4.0,12,3.00,28,16,57.1,0,0,4,0,0.0,,,,,,Matches
+31,Predrag Rajković,rs SRB,GK,il Maccabi Tel Aviv,19,1995,6,6,540,6.0,16,2.67,53,37,69.8,0,0,6,0,0.0,,,,,,Matches
+32,Sergio Rico,es ESP,GK,es Sevilla,21,1993,6,6,540,6.0,11,1.83,46,35,76.1,2,0,4,2,33.3,,,,,,Matches
+33,Roberto,es ESP,GK,gr Olympiacos,29,1986,6,6,540,6.0,13,2.17,46,33,71.7,3,0,3,1,16.7,,,,,,Matches
+34,Oleksandr Rybka,ua UKR,GK,ua Dynamo Kyiv,28,1987,1,1,90,1.0,2,2.00,5,3,60.0,0,1,0,0,0.0,,,,,,Matches
+35,Matz Sels,be BEL,GK,be Gent,23,1992,8,8,720,8.0,11,1.37,36,25,69.4,3,1,4,1,12.5,,,,,,Matches
+36,Oleksandr Shovkovskiy,ua UKR,GK,ua Dynamo Kyiv,40,1975,7,7,630,7.0,5,0.71,28,23,82.1,3,2,2,5,71.4,,,,,,Matches
+37,Yann Sommer,ch SUI,GK,de Gladbach,26,1988,6,6,540,6.0,12,2.00,32,20,62.5,1,2,3,1,16.7,,,,,,Matches
+38,Wojciech Szczęsny,pl POL,GK,it Roma,25,1990,8,8,680,7.6,20,2.65,54,34,63.0,1,3,4,1,12.5,,,,,,Matches
+39,Marc-André ter Stegen,de GER,GK,es Barcelona,23,1992,10,10,900,10.0,8,0.80,46,38,82.6,7,2,1,3,30.0,,,,,,Matches
+40,Kevin Trapp,de GER,GK,fr Paris S-G,25,1990,10,10,900,10.0,6,0.60,40,34,85.0,6,2,2,5,50.0,,,,,,Matches
+41,Sven Ulreich,de GER,GK,de Bayern Munich,26,1988,1,1,90,1.0,0,0.00,5,5,100.0,1,0,0,1,100.0,,,,,,Matches
+42,Johan Wiland,se SWE,GK,se Malmö,34,1981,6,6,540,6.0,21,3.50,54,33,61.1,1,0,5,1,16.7,,,,,,Matches
+43,Jeroen Zoet,nl NED,GK,nl PSV Eindhoven,24,1991,8,8,750,8.3,7,0.84,40,33,82.5,3,3,2,4,50.0,,,,,,Matches
